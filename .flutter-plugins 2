@@ -1,0 +1,27 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/macbookair/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.1/
+cloud_firestore_web=/Users/macbookair/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.3.5/
+firebase_auth=/Users/macbookair/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/
+firebase_auth_web=/Users/macbookair/.pub-cache/hosted/pub.dev/firebase_auth_web-5.13.4/
+firebase_core=/Users/macbookair/.pub-cache/hosted/pub.dev/firebase_core-3.8.1/
+firebase_core_web=/Users/macbookair/.pub-cache/hosted/pub.dev/firebase_core_web-2.18.2/
+firebase_messaging=/Users/macbookair/.pub-cache/hosted/pub.dev/firebase_messaging-15.1.6/
+firebase_messaging_web=/Users/macbookair/.pub-cache/hosted/pub.dev/firebase_messaging_web-3.9.5/
+fluttertoast=/Users/macbookair/.pub-cache/hosted/pub.dev/fluttertoast-8.2.8/
+libphonenumber_plugin=/Users/macbookair/.pub-cache/hosted/pub.dev/libphonenumber_plugin-0.3.3/
+libphonenumber_web=/Users/macbookair/.pub-cache/hosted/pub.dev/libphonenumber_web-0.3.2/
+path_provider_linux=/Users/macbookair/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/macbookair/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+shared_preferences=/Users/macbookair/.pub-cache/hosted/pub.dev/shared_preferences-2.3.3/
+shared_preferences_android=/Users/macbookair/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.3/
+shared_preferences_foundation=/Users/macbookair/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.3/
+shared_preferences_linux=/Users/macbookair/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+shared_preferences_web=/Users/macbookair/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.2/
+shared_preferences_windows=/Users/macbookair/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+url_launcher=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+url_launcher_android=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/
+url_launcher_ios=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.1/
+url_launcher_linux=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+url_launcher_macos=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.1/
+url_launcher_web=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3/
+url_launcher_windows=/Users/macbookair/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.3/
